@@ -2,6 +2,8 @@
 
 built to learn Angular 7, this web app enables you to surf the food and its ingredients (with amount) in the home-page, as a user you can also share your unique dish with the list of ingredients for others to see.
 
+Project is [live here.](https://5c915669c42fc66f5b6c9c18--angular-webapp-foodbook.netlify.com/)
+
 ## MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
